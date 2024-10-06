@@ -1,0 +1,8 @@
+As of now, my Python discord ticket bot consists of these current features : 
+
+/panel command - sends the full ticket panel to a specified channel (I am going to make it a channel specific command soon so it is not avaliable to see everywhere). Also sends a message in the mod-log channel to say that the panel has been sent and who sent it. 
+
+the panel only consists of a 'General Support' button, as of now, which DMs the user 2 questions - what is your steam ID and what is your issue. After the questions are answered, an embed gets sent to the 'incoming tickets' channel where the ticket can either be opened, close with custom reply and open with custom reply.
+
+More updates coming soon!
+(someone please tell me if I'm using GitHub correctly, I'm new to this :)
